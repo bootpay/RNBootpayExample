@@ -1,0 +1,6 @@
+module Pods_RNBootpayTest {
+  umbrella header "Pods-RNBootpayTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "react-native-bootpay",
+  "version": "1.0.1",
+  "summary": "bootpay react-native module",
+  "homepage": "https://github.com/bootpay/react-native-bootpay#readme",
+  "license": "MIT",
+  "authors": "bootpay <bootpay.co.kr@gmail.com> (https://github.com/bootpay)",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/ehowlsla/react-native-bootpay.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

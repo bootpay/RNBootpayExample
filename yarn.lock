@@ -5624,10 +5624,10 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.1.tgz#5b3531bd76a645a4c9fb6e693ed36419e3301339"
   integrity sha512-NAnt2iGDXohE5LI7uBnLnqvLQMtzhkiAOLXTmv+qnF9Ky7xAPcX8Up/xWIhxvLVGJvuLiNc4xQLtuqDRzb4fSA==
 
-react-native-bootpay@0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/react-native-bootpay/-/react-native-bootpay-0.3.0.tgz#2588e13d7833f6d9beb27f1ba488fdba9094df03"
-  integrity sha512-z/yj9M9xDSP2kjXFnJuRKasCbI/kfplVhRFAOlfCKtaCyqpGxrVRtwUnQ0JsuT9hhe8pevRXTQrxqfer0BYdRA==
+react-native-bootpay@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-bootpay/-/react-native-bootpay-1.0.1.tgz#69fe97fa8f094f8eb7e663caefd2509cf84ae011"
+  integrity sha512-XiP9kISOt2krZYbnWz69LkX6xpB1M5kfBwGhZxviVUl8i97cSkKYtASeEs9H7CcYU1+3PbnKfUSzGg5SEE0x1Q==
   dependencies:
     react-native-device-info "7.2.1"
     react-native-sensitive-info "5.5.8"
